@@ -2,13 +2,8 @@ body {
     background: #f5e8ff;
 }
 
-.container {
-    display: "flex";
-    direction: "row";
-}
-
 .wrapper {
-    margin: 200px 600px 0 600px;
+    margin: 100px auto auto;
     font-size: 100px;
     width: 530px;
     height: 530px;
